@@ -1,4 +1,4 @@
-### Hi there 👋
+### Srdacan pozdrav 👋
 
 <!--
 **marcojovanovic/marcojovanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 --!>
- ⚡ Trenutno radim na projektu React-Firebase--Chat
+
+ ⚡ Trenutno radim na projektu React-Firebase--Chat.
 
 Ucim kao i uvek nesto novo, sada sam fokusiran da kao sto sam savladao osnove rada Firebase, jos lakse savladati rad sa MongoDB
