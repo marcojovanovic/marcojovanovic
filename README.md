@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
  ⚡ Trenutno radim na projektu React-Firebase--Chat.
 
-Ucim kao i uvek nesto novo, sada sam fokusiran da kao sto sam savladao osnove rada Firebase, jos lakse savladati rad sa MongoDB
+Ucim kao i uvek nesto novo, fokusiran da savladam osnove javascript backend programiranja i bazu podataka mongoDB
