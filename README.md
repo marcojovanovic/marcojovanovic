@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 --!>
 
- ⚡ Trenutno radim na projektu MERN ChatAPP (react + node + express + mongoDB + JWT).
+ ⚡ Trenutno učim NEXT.js
 
 Ucim kao i uvek nesto novo, fokusiran da savladam osnove javascript backend programiranja, ali ne zaboravljam i da se bavim osnovama JavaScript, jer samo sa dobrim temeljima mozes biti graditi uspeh
